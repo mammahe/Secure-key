@@ -5,7 +5,7 @@
 <div id="readme" class="Box Box--condensed instapaper_body md js-code-block-container">
 <div class="Box-body">
 <article class="markdown-body entry-content p-5">
-<p>Goal is to have storing Credentials Securely on Android Devices</p>
+<p>Storing credentials securely on a device is in many occasions necessary. You probably don't want to rely only on the separation of processes of the Android OS but make sure the stored values are also encrypted.So Goal is to have storing Credentials Securely on Android Devices</p>
 <h2><a id="user-content-requirements" class="anchor" href="https://github.com/mammahe/Format-Number-Libphonenumber#requirements" aria-hidden="true"></a><strong>Requirements</strong></h2>
 <p>Android 4.0 or higher&nbsp;</p>
 <h2><a id="user-content--usage" class="anchor" href="https://github.com/mammahe/Format-Number-Libphonenumber#-usage" aria-hidden="true"></a><strong>Usage</strong></h2>
