@@ -18,7 +18,7 @@
 	<span class="token punctuation">}</span></code></pre>
 <p><strong>Step 2.&nbsp;Add the dependency</strong></p>
 <pre class="kode code-toolbar  language-css"><code id="depCodeGradle" class=" kode  language-css"><span class="token selector">dependencies</span> <span class="token punctuation">{</span>
-	        implementation <span class="token string">'com.github.mammahe:Secure-key:Tag'</span>
+	        implementation <span class="token string">'com.github.mammahe:Secure-key:1'</span>
 	<span class="token punctuation">}</span></code></pre>
 <p><strong>Step 3. Add import in activity</strong></p>
 <pre><span class="pl-k">import</span> <span class="pl-smi">com.sairamkrishna.keystoresecure.Secure</span>;</pre>
