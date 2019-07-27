@@ -29,7 +29,7 @@
 <p><strong>Step 6. To Decrypt string key use the following code&nbsp;</strong></p>
 <pre><span class="pl-smi">Secure</span><span class="pl-k">.</span>decrypt(name))</pre>
 <h2><a id="user-content-output" class="anchor" href="https://github.com/mammahe/Format-Number-Libphonenumber#output" aria-hidden="true"></a>Output</h2>
-<p><a href="https://user-images.githubusercontent.com/39652440/61815603-3f19d480-ae68-11e9-8360-4e2aeb276823.png" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/39652440/61815603-3f19d480-ae68-11e9-8360-4e2aeb276823.png" alt="" width="350" height="700" /></a></p>
+<p><a href="https://user-images.githubusercontent.com/39652440/61815603-3f19d480-ae68-11e9-8360-4e2aeb276823.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/mammahe/Secure-key/blob/master/Screenshot_20190727-222402.png" alt="" width="350" height="700" /></a></p>
 <h2><a id="user-content-license" class="anchor" href="https://github.com/mammahe/Format-Number-Libphonenumber#license" aria-hidden="true"></a>License</h2>
 <p>Copyright 2019 Sairamkrishna Mammahe</p>
 <p>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at</p>
